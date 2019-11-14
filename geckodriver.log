@@ -1,0 +1,593 @@
+1573686307866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevL5rb8"
+1573686308704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573686308704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573686308705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573686308705	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573686312077	Marionette	INFO	Listening on port 46755
+1573686312089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573686328078	Marionette	INFO	Stopped listening on port 46755
+1573686356681	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYrcVf7"
+1573686357457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573686357458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573686357458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573686357458	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573686360554	Marionette	INFO	Listening on port 46853
+1573686360606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+[Parent 18785, Gecko_IOThread] WARNING: pipe error (78): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 18785, Gecko_IOThread] WARNING: pipe error (76): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573686956551	Marionette	INFO	Stopped listening on port 46853
+1573687299007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK2aWkQ"
+1573687299881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573687299881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573687299881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573687299881	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573687303230	Marionette	INFO	Listening on port 44765
+1573687303250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573687352464	Marionette	INFO	Stopped listening on port 44765
+1573687372165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS8ARzy"
+1573687373018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573687373019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573687373019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573687373019	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573687376168	Marionette	INFO	Listening on port 33883
+1573687376192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573687396516	Marionette	INFO	Stopped listening on port 33883
+1573687401191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletP4MkG"
+1573687402061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573687402061	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573687402062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573687402062	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573687405399	Marionette	INFO	Listening on port 45699
+1573687405408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+[Parent 29393, Gecko_IOThread] WARNING: pipe error (92): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 29393, Gecko_IOThread] WARNING: pipe error (76): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Transaction canceled due to a closed connection.", "resource://gre/modules/Sqlite.jsm", 613))
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573687456106	Marionette	INFO	Stopped listening on port 45699
+1573687459216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5GrCB2"
+1573687460097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573687460098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573687460098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573687460098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573687463495	Marionette	INFO	Listening on port 39299
+1573687463546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:30163): dconf-WARNING **: 20:24:29.856: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permissão negada
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+[Parent 30087, Gecko_IOThread] WARNING: pipe error (94): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 30087, Gecko_IOThread] WARNING: pipe error (68): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573687498632	Marionette	INFO	Stopped listening on port 39299
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1573687501255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI2cWJc"
+1573687502155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573687502155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573687502156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573687502156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573687505691	Marionette	INFO	Listening on port 40807
+1573687505776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573687508027	Marionette	INFO	Stopped listening on port 40807
+
+(/usr/lib/firefox/firefox:30730): dconf-WARNING **: 20:25:08.036: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permissão negada
+1573687526036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUieqVo"
+1573687526878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573687526878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573687526878	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573687526879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573687530186	Marionette	INFO	Listening on port 45623
+1573687530256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:31077): dconf-WARNING **: 20:25:36.269: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permissão negada
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+[Parent 30992, Gecko_IOThread] WARNING: pipe error (83): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 30992, Gecko_IOThread] WARNING: pipe error (76): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573687593703	Marionette	INFO	Stopped listening on port 45623
+1573687618255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Pehjt"
+1573687619037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573687619037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573687619037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573687619037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573687622326	Marionette	INFO	Listening on port 39621
+1573687622392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:32263): dconf-WARNING **: 20:27:09.270: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permissão negada
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573687732560	Marionette	INFO	Stopped listening on port 39621
+[Parent 32189, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 32189, Gecko_IOThread] WARNING: pipe error (76): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+1573687738133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMBWS2p"
+1573687738962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573687738962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573687738962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573687738962	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573687741989	Marionette	INFO	Listening on port 37549
+1573687742045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:1053): dconf-WARNING **: 20:29:10.417: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permissão negada
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573687760812	Marionette	INFO	Stopped listening on port 37549
+1573687916729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4sQoMW"
+1573687917625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573687917626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573687917626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573687917626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573687920893	Marionette	INFO	Listening on port 42559
+1573687920950	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573687942209	Marionette	INFO	Stopped listening on port 42559
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1573687979050	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiJnBHZ"
+1573687979998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573687979998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573687979998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573687979998	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573687983323	Marionette	INFO	Listening on port 37843
+1573687983367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573688252760	Marionette	INFO	Stopped listening on port 37843
+[Parent 3783, Gecko_IOThread] WARNING: pipe error (76): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573688257953	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelDWRam"
+1573688258904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573688258904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573688258904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573688258904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573688262087	Marionette	INFO	Listening on port 43753
+1573688262171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573688387458	Marionette	INFO	Stopped listening on port 43753
+1573688412262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesTgnrd"
+1573688413095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573688413096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573688413096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573688413096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573688416324	Marionette	INFO	Listening on port 43483
+1573688416378	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573688460689	Marionette	INFO	Stopped listening on port 43483
+[Parent 8263, Gecko_IOThread] WARNING: pipe error (95): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573688469088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep7E5JF"
+1573688469980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573688469981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573688469981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573688469981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573688473359	Marionette	INFO	Listening on port 32993
+1573688473419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:501:26\ngetGrids@resource://devtools/server/actors/layout.js:506:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80520015 (NS_ERROR_FILE_ACCESS_DENIED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(0);'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 678"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:678:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:530:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:580:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:547:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2033:69
+addAllSources@resource://devtools/server/actors/thread.js:1334:14
+onSources@resource://devtools/server/actors/thread.js:1340:10
+onPacket@resource://devtools/server/debugger-server-connection.js:378:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 678, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_FILE_ACCESS_DENIED: Failed to open input source 'file:///'
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 678: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(0);'
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:501:26\ngetGrids@resource://devtools/server/actors/layout.js:506:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:501:26\ngetGrids@resource://devtools/server/actors/layout.js:506:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:501:26\ngetGrids@resource://devtools/server/actors/layout.js:506:43\nhandler@resource://devtools/shared/protocol/Actor.js:154:37\nonPacket@resource://devtools/server/debugger-server-connection.js:378:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+1573688623645	Marionette	INFO	Stopped listening on port 32993
+[Parent 8956, Gecko_IOThread] WARNING: pipe error (75): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 8956, Gecko_IOThread] WARNING: pipe error (76): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573688628206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerZfMCD"
+1573688629694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573688629695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573688629695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573688629695	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573688632476	Marionette	INFO	Listening on port 42559
+1573688632542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573688739469	Marionette	INFO	Stopped listening on port 42559
+[Parent 10591, Gecko_IOThread] WARNING: pipe error (102): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 10591, Gecko_IOThread] WARNING: pipe error (84): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573688754957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG373J6"
+1573688755749	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573688755750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573688755750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573688755750	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573688759121	Marionette	INFO	Listening on port 40915
+1573688759184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573689089927	Marionette	INFO	Stopped listening on port 40915
+1573689097025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexLLbbs"
+1573689097892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573689097892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573689097892	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573689097893	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573689101347	Marionette	INFO	Listening on port 44097
+1573689101382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573689133663	Marionette	INFO	Stopped listening on port 44097
+1573689201892	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSj20Bo"
+1573689202981	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573689202982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573689202982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573689202982	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573689206129	Marionette	INFO	Listening on port 44061
+1573689206226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573689245523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0ZND4z"
+1573689246484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573689246484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573689246485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573689246485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573689249760	Marionette	INFO	Listening on port 35167
+1573689249841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+[Parent 16781, Gecko_IOThread] WARNING: pipe error (76): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573689272709	Marionette	INFO	Stopped listening on port 44061
+1573689276596	Marionette	INFO	Stopped listening on port 35167
+1573689310201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4XCGjx"
+1573689311066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573689311066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573689311066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573689311066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573689314184	Marionette	INFO	Listening on port 33025
+1573689314223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573689335704	Marionette	INFO	Stopped listening on port 33025
+1573689656454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile962NMB"
+1573689657445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573689657446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573689657446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573689657446	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573689661056	Marionette	INFO	Listening on port 39063
+1573689661086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573689744080	Marionette	INFO	Stopped listening on port 39063
+[Parent 21107, Gecko_IOThread] WARNING: pipe error (76): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 21107, Gecko_IOThread] WARNING: pipe error (54): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573690028012	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexiOZas"
+1573690029170	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573690029171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573690029171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573690029171	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573690032988	Marionette	INFO	Listening on port 38867
+1573690033040	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573692709790	Marionette	INFO	Stopped listening on port 38867
+[Parent 24435, Gecko_IOThread] WARNING: pipe error (76): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 24435, Gecko_IOThread] WARNING: pipe error (75): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573692722290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletDLxa7"
+1573692723236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573692723236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573692723236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573692723237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573692726831	Marionette	INFO	Listening on port 33441
+1573692726933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573692735014	Marionette	INFO	Stopped listening on port 33441
+1573692874732	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4NKjbC"
+1573692875693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573692875693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573692875693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573692875694	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573692879359	Marionette	INFO	Listening on port 41439
+1573692879383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573692891325	Marionette	INFO	Stopped listening on port 41439
+[Parent 16425, Gecko_IOThread] WARNING: pipe error (94): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573692972819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1uJ4Xj"
+1573692974055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573692974055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573692974055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573692974056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573692977872	Marionette	INFO	Listening on port 45231
+1573692977947	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573693095545	Marionette	INFO	Stopped listening on port 45231
+[Parent 17390, Gecko_IOThread] WARNING: pipe error (75): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 17390, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573693116276	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemZmZls"
+1573693117364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573693117364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573693117364	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573693117365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573693120994	Marionette	INFO	Listening on port 37289
+1573693121005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+
+(/usr/lib/firefox/firefox:18921): dconf-WARNING **: 21:58:43.023: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permissão negada
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573693461465	Marionette	INFO	Stopped listening on port 37289
+[Parent 18838, Gecko_IOThread] WARNING: pipe error (76): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573693473838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBKvO86"
+1573693474771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573693474771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573693474771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573693474771	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573693478326	Marionette	INFO	Listening on port 46379
+1573693478391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573693571399	Marionette	INFO	Stopped listening on port 46379
+[Parent 22270, Gecko_IOThread] WARNING: pipe error (75): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573693582727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletA0U6a"
+1573693583562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573693583563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573693583563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573693583563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573693586873	Marionette	INFO	Listening on port 36429
+1573693586954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573693596411	Marionette	INFO	Stopped listening on port 36429
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1573693820526	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI913Yx"
+1573693821428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573693821428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573693821428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573693821429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573693824656	Marionette	INFO	Listening on port 44305
+1573693824744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573693858273	Marionette	INFO	Stopped listening on port 44305
+[Parent 25535, Gecko_IOThread] WARNING: pipe error (76): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573693867788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYVHDfP"
+1573693868615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573693868615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573693868615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573693868615	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573693871978	Marionette	INFO	Listening on port 44611
+1573693872026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573693881088	Marionette	INFO	Stopped listening on port 44611
+1573693974854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledMNOq2"
+1573693975656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573693975656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573693975656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573693975656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573693978888	Marionette	INFO	Listening on port 43343
+1573693978982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573693991531	Marionette	INFO	Stopped listening on port 43343
+1573694224675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0e1aWe"
+1573694225559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573694225559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573694225559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573694225559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573694228708	Marionette	INFO	Listening on port 33759
+1573694228811	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573694315255	Marionette	INFO	Stopped listening on port 33759
+[Parent 29692, Gecko_IOThread] WARNING: pipe error (76): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 29692, Gecko_IOThread] WARNING: pipe error (90): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573694326422	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile69xIAD"
+1573694327242	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573694327245	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573694327246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573694327246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573694330548	Marionette	INFO	Listening on port 34333
+1573694330668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573694339446	Marionette	INFO	Stopped listening on port 34333
+1573694442926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile81NEaJ"
+1573694443736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573694443736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573694443736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573694443736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573694446710	Marionette	INFO	Listening on port 37875
+1573694446749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573694485953	Marionette	INFO	Stopped listening on port 37875
+[Parent 31830, Gecko_IOThread] WARNING: pipe error (75): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573694496862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesLedQS"
+1573694497855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573694497855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573694497855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573694497855	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573694501232	Marionette	INFO	Listening on port 33397
+1573694501309	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573694512784	Marionette	INFO	Stopped listening on port 33397
+1573695086817	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHN5iKb"
+1573695087761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573695087761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573695087761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573695087761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573695091049	Marionette	INFO	Listening on port 44761
+1573695091136	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+[Parent 5681, Gecko_IOThread] WARNING: pipe error (76): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573695701482	Marionette	INFO	Stopped listening on port 44761
+1573695721714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5amSjb"
+1573695722659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573695722659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573695722659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573695722659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573695726238	Marionette	INFO	Listening on port 43665
+1573695726339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573695790476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF87wIZ"
+1573695791250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573695791250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573695791250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573695791250	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573695794743	Marionette	INFO	Listening on port 36239
+1573695794806	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573695804013	Marionette	INFO	Stopped listening on port 36239
+[Parent 11063, Gecko_IOThread] WARNING: pipe error (75): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 11063, Gecko_IOThread] WARNING: pipe error (83): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573695855892	Marionette	INFO	Stopped listening on port 43665
+1573730656561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyJ7n9B"
+1573730657640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573730657640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573730657640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573730657641	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573730661287	Marionette	INFO	Listening on port 33779
+1573730661326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573730679284	Marionette	INFO	Stopped listening on port 33779
+1573732184343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXTMx3X"
+1573732185354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573732185354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573732185355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573732185355	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573732188856	Marionette	INFO	Listening on port 38919
+1573732188885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573732207988	Marionette	INFO	Stopped listening on port 38919
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1573733086536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenzzhIv"
+1573733087564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573733087565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573733087565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573733087565	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573733091423	Marionette	INFO	Listening on port 33179
+1573733091478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573733340927	Marionette	INFO	Stopped listening on port 33179
+[Parent 6626, Gecko_IOThread] WARNING: pipe error (81): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1573733353351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelR7sK3"
+1573733354418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573733354418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573733354418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573733354418	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573733357956	Marionette	INFO	Listening on port 37959
+1573733357998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573733378119	Marionette	INFO	Stopped listening on port 37959
+1573736608430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile22jQKX"
+1573736609290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573736609290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573736609290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573736609290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573736612562	Marionette	INFO	Listening on port 46339
+1573736612655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573736630211	Marionette	INFO	Stopped listening on port 46339
+1573751482536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKgYuTw"
+1573751483516	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573751483517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573751483517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573751483517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573751486714	Marionette	INFO	Listening on port 36553
+1573751486749	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573751561142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebCPw3P"
+1573751561916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573751561916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573751561916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573751561916	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1573751565111	Marionette	INFO	Listening on port 39249
+1573751565174	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+JavaScript warning: https://aluno.sebsa.com.br/JavaScript/jquery.min.js, line 19: unreachable code after return statement
+1573751583272	Marionette	INFO	Stopped listening on port 39249
+[Parent 19441, Gecko_IOThread] WARNING: pipe error (83): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Parent 19441, Gecko_IOThread] WARNING: pipe error (76): Conexão fechada pela outra ponta: file /build/firefox-clezVp/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573751600029	Marionette	INFO	Stopped listening on port 36553
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
